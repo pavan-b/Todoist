@@ -1,0 +1,19 @@
+.container {
+    position: fixed;
+    bottom: 0px;
+    width: 100% !important;
+    height: auto;
+    left :0px !important;
+    right :0px !important;
+    overflow: hidden;
+  }
+  .messagesContainer{
+    margin-bottom:  100px;
+  }
+  .topContainer{
+    overflow: hidden;
+    margin-bottom:  500px;
+  }
+.msg-color{
+  background-color: #60f7de
+}
